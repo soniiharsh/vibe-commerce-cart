@@ -76,6 +76,10 @@ GET	/api/cart	Get cart items with total
 DELETE	/api/cart/:id	Remove item from cart
 POST	/api/checkout	Checkout → returns mock receipt
 
+## 🎥 Demo Video
+[▶️ Watch the 1-Minute Demo (YouTube)](https://youtu.be/klqwsXFCZQs)
+
+
 🖼️ Frontend Screenshots
 🏠 Products Grid
 <img width="1916" height="1031" alt="image" src="https://github.com/user-attachments/assets/cf7defe7-4ff5-4683-9a70-e67fd6e8eeb1" />
