@@ -77,7 +77,20 @@ DELETE	/api/cart/:id	Remove item from cart
 POST	/api/checkout	Checkout → returns mock receipt
 
 🖼️ Frontend Screenshots
+🏠 Products Grid
 <img width="1916" height="1031" alt="image" src="https://github.com/user-attachments/assets/cf7defe7-4ff5-4683-9a70-e67fd6e8eeb1" />
+🛒 Cart View
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/5362167e-2e42-4c40-94b9-95ae3d635241" />
+✏️ Quantity Update & Remove
+<img width="1919" height="315" alt="image" src="https://github.com/user-attachments/assets/a16a5d3d-bba4-4c69-8933-dd2f04025ea3" />
+💳 Checkout Receipt Modal
+<img width="1902" height="1021" alt="image" src="https://github.com/user-attachments/assets/ac05c184-790c-4527-a5b6-34e55500bb82" />
+<img width="462" height="254" alt="image" src="https://github.com/user-attachments/assets/8af39656-a433-4d5c-89af-ba0b78d7e2cc" />
+
+🖥️ Backend Screenshots
+<img width="1919" height="1035" alt="image" src="https://github.com/user-attachments/assets/e488ef17-3daf-41ae-aad8-37c51b7b089b" />
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/9f159c68-0433-4a0f-9b5e-242806088b77" />
+
 
 
 ✅ Features Completed (Assignment Checklist)
@@ -97,3 +110,4 @@ Bonus: Styled UI, Clean README	✅
 Harsh Soni
 📧 soniiharsh.04@gmail.com
 🌐 GitHub: soniiharsh
+⭐ If you found this project interesting, please give it a star on GitHub!
